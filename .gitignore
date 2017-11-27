@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!stress.management.Rnw
+!Children/
+
+Children/*
+!*.rnw
